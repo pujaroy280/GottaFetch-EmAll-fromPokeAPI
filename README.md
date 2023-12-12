@@ -34,3 +34,11 @@ npm install
 npm run dev
 ```
 The application will be available at http://localhost:5173/.
+
+# Usage
+- Open the web application in your preferred web browser.
+- Explore the Pokémon information fetched from the Poke API.
+
+# Notes
+- Make sure you have an internet connection as the application relies on the Poke API.
+- Customize the number of Pokémon to display or other settings by modifying the API call in the main.js file.
