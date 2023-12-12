@@ -2,6 +2,9 @@
 
 Welcome to the "Gotta Fetch 'Em All!" web application, where you can explore information about Pokémon fetched from the Poke API.
 
+![image](https://github.com/pujaroy280/GottaFetch-EmAll-fromPokeAPI/assets/62675121/0ccba48a-b2d4-4042-b273-1f0e92d68e86)
+
+
 # Objective
 The purpose of this project is to create a web application using Vite as the build tool and either Fetch or Axios for making API calls. The application will allow users to fetch and display information about Pokémon from the Poke API. The fetched data will be presented using HTML.
 
