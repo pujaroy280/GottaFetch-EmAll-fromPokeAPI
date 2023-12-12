@@ -1,6 +1,6 @@
 # Gotta Fetch 'Em All! Web Application
 
-Welcome to the "Gotta Fetch 'Em All!" web application, where you can explore information about Pokémon fetched from the Poke API.
+Welcome to the "Gotta Fetch 'Em All!" web application, where you can explore information about Pokémon fetched from the Poke API: https://pokeapi.co/docs/v2.
 
 ![image](https://github.com/pujaroy280/GottaFetch-EmAll-fromPokeAPI/assets/62675121/0ccba48a-b2d4-4042-b273-1f0e92d68e86)
 
